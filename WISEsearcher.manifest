@@ -7,7 +7,7 @@
 	"plugin_version" : "1.1.1",
 	"changes" : "Updated Installation Guide to be compatible with the new Webclient Plugin Installer; changed from standard to custom category, etc.",
 	"i2b2_version" : "1.7.07",
-	"roles" : "[ 'DATA_OBFSC', 'DATA_LDS', 'DATA_DEID', 'DATA_PROT' ]", 
+	"roles" : "[ 'DATA_OBFSC', 'DATA_AGG', 'DATA_LDS', 'DATA_DEID', 'DATA_PROT' ]", 
 	"authors" : "[ 'S. Wayne Chen' ]",
 	"institutions" : "[ 'University of Massachusetts Medical School' ]",
 	"keywords" : "[ 'workplace', 'search', 'webclient' ]",
