@@ -12,6 +12,7 @@
 	"institutions" : "[ 'University of Massachusetts Medical School' ]",
 	"keywords" : "[ 'workplace', 'search', 'webclient' ]",
 	"package" : "https://github.com/i2b2plugins/wc-WISE-searcher/v1.1.2.zip",
+	"icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-WISE-searcher/master/wiseSearcher.png",
 	"userManual" : "https://github.com/i2b2plugins/wc-WISE-searcher/blob/master/WISEsearcher_v1.1.1_User_Manual.pdf",
 	"installGuide" : "https://github.com/i2b2plugins/wc-WISE-searcher/blob/master/WISEsearcher_v1.1.1_installation_guide.pdf",
 	"configuration" : "None",
